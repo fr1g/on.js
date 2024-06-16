@@ -1,5 +1,6 @@
 # On.JS (WIP, **NOT USABLE**)
-*This is the experimental repo for On.js*
+
+tips: *This is the experimental repo for On.js*
 
 ## What is On.JS?
 

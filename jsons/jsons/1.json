@@ -1,3 +1,14 @@
 {
-    
+    "type": "default",
+    "comment": "",
+    "route": "",
+    "content": [
+
+    ],
+    "override": {
+        "title": "",
+        "metas": [
+            { "type": "", "attributes": [] }
+        ]
+    }
 }
